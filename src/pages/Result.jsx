@@ -34,7 +34,7 @@ const Result = () => {
             </h1>
             <button
                 className='
-                 mt-12 border-4 border-sky-200 px-4 py-2 rounded-md
+                 mt-36 border-4 border-sky-200 px-4 py-2 rounded-md
                  bg-teal-700 text-white font-medium
                 '
                 onClick={goHome}
