@@ -56,7 +56,7 @@ const Form = () => {
            <InputField change={changingForm} n='cur_cgpa' name='Your current CGPA:' placeholder='ex. 3.40' value={value.cur_cgpa}/>
            <InputField  change={changingForm}  n='last_sem_cgpa' name='CGPA was in last semester:' placeholder='ex. 4.00' value={value.last_sem_cgpa}/>
 
-           <InputField change={changingForm}  n='total_credit_hour' name='Total credit hour that you are completed: ' placeholder='ex. 50' value={value.total_credit_hour}/>
+           <InputField change={changingForm}  n='total_credit_hour' name='Total credit hour that you have completed: ' placeholder='ex. 50' value={value.total_credit_hour}/>
 
            <InputField change={changingForm}  n='last_sem_credit_hour' name='Total credit hour in your last semester: ' placeholder='ex. 12' value={value.last_sem_credit_hour}/>
            
