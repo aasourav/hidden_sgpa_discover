@@ -38,7 +38,7 @@ const Result = () => {
                  bg-teal-700 text-white font-medium
                 '
                 onClick={goHome}
-            >Go Home/Calculate Again</button>
+            >Home Page</button>
         </div>
         
 
